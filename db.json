@@ -1,0 +1,71 @@
+{
+  "users": [
+    {
+      "name": "Ramiro Medhurst",
+      "id": 15
+    },
+    {
+      "name": "Eddie Jones",
+      "id": 16
+    }
+  ],
+  "albums": [
+    {
+      "userId": 15,
+      "title": "Oriental Soft Chips",
+      "id": 14
+    },
+    {
+      "userId": 15,
+      "title": "Recycled Fresh Chair",
+      "id": 15
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 14,
+      "url": "https://loremflickr.com/150/150/abstract?lock=5573155114450944",
+      "id": 1
+    },
+    {
+      "albumId": 14,
+      "url": "https://loremflickr.com/150/150/abstract?lock=8269135335129088",
+      "id": 2
+    },
+    {
+      "albumId": 14,
+      "url": "https://loremflickr.com/150/150/abstract?lock=6728416183189504",
+      "id": 3
+    },
+    {
+      "albumId": 14,
+      "url": "https://loremflickr.com/640/480?lock=4066050142371840",
+      "id": 4
+    },
+    {
+      "albumId": 14,
+      "url": "https://picsum.photos/seed/dfaRh/640/480",
+      "id": 5
+    },
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/640/480?lock=3173463030235136",
+      "id": 6
+    },
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/640/480?lock=2693277537009664",
+      "id": 7
+    },
+    {
+      "albumId": 15,
+      "url": "https://picsum.photos/seed/bcWiG9t/640/480",
+      "id": 8
+    },
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/640/480?lock=939788888702976",
+      "id": 9
+    }
+  ]
+}
